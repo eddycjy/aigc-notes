@@ -1,2 +1,4 @@
 # aigc-notes
-Learning and using AIGC, may involve: LLM, etc.
+
+## LangChain
+- [快速入门 LangChain](https://github.com/eddycjy/aigc-notes/blob/main/langchain/getting_started.md)
